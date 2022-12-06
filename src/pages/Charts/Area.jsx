@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Area = () => {
-  return (
-    <div>
-      
-    </div>
-  );
-};
+const Area = () => (
+  <div>
+    Area
+  </div>
+);
 
 export default Area;

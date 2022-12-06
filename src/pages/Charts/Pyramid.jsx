@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Pyramid = () => {
-  return (
-    <div>
-      
-    </div>
-  );
-};
+const Pyramid = () => (
+  <div>
+    Pyramid
+  </div>
+);
 
 export default Pyramid;

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Line = () => (
-  <div />
+  <div>Line</div>
 );
 
 export default Line;

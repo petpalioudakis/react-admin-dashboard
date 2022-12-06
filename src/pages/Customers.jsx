@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Customers = () => (
-  <div />
-);
+  <div>Customers</div>);
 
 export default Customers;

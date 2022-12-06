@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Bar = () => {
-  return (
-    <div>
-      
-    </div>
-  );
-};
+const Bar = () => (
+  <div>
+    Bar
+  </div>
+);
 
 export default Bar;

@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Ecommerce = () => (
-  <div />
-);
+  <div>Ecommerce</div>);
 
 export default Ecommerce;

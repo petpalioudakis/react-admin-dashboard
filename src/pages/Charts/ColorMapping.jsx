@@ -1,11 +1,9 @@
 import React from 'react';
 
-const ColorMapping = () => {
-  return (
-    <div>
-      
-    </div>
-  );
-};
+const ColorMapping = () => (
+  <div>
+    ColorMappping
+  </div>
+);
 
 export default ColorMapping;
