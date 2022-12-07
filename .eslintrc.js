@@ -19,11 +19,13 @@ module.exports = {
   ],
   rules: {
     'react/function-component-definition': 0,
+    'react/jsx-props-no-spreading': 0,
     'import/extensions': 0,
     'react/prop-types': 0,
     'linebreak-style': 0,
     'react/state-in-constructor': 0,
     'import/prefer-default-export': 0,
+    'import/no-cycle': 0,
     'max-len': [
       2,
       550,
